@@ -24,7 +24,12 @@ Now that you are all set up, it's time to learn a little more about the tools of
 1. What is git? What is the difference between git and GitHub?
 Git is version control and github is cloud hosting service 
 2. Why do we create a branch? 
+It isolates our work with team members work. It is an independant line of deevlopment
 3. What is the purpose of a pull request? 
+Command used to updates local version of repository
 4. What is the command you can use to switch between branches? For example you are working on a feature branch and you want to switch back to main. 
+Fork
 5. Explain the difference between `git fetch`, `git merge` and `git pull` what does each command do? 
+git pull updates local version of repo. git merge helps integrate independent line of work into single branch. git fetch commits changes in to your repo
 6. What is a merge conflict? How do you resolve a merge conflict? 
+By deciding which branch changes you want to keep or making new change incorpoarting both branches changes
